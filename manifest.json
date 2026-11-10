@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Quick World Load - Performance Mode",
+    "description": "Performance settings that may reduce background simulation; cannot guarantee five-second world loading.",
+    "uuid": "c59dcd3b-7b19-4d12-8b5b-77bb0138b8b7",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "2ab3f5da-9e98-46d8-b8f5-9cb582a8f6f1",
+      "version": [1, 0, 0]
+    }
+  ]
+}
